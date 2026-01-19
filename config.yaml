@@ -1,0 +1,12 @@
+agent:
+  name: SureshAI
+  mode: safe
+  verbosity: concise
+
+llm:
+  provider: openai
+  model: gpt-4o-mini
+  temperature: 0.2
+
+memory:
+  enabled: true
