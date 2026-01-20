@@ -7,3 +7,5 @@ A LangGraph-powered personal AI agent for development and automation.
 git clone <repo>
 cd personal-ai-agent
 pip install -r requirements.txt
+
+Sync after venv ignore
