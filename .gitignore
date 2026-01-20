@@ -2,3 +2,7 @@ storage/*.db
 __pycache__/
 .env
 pyproject.toml
+# Ignore virtual environment
+venv/
+.venv/
+
